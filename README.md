@@ -5,6 +5,7 @@ this is last version for [smsmisr](https://smsmisr.com/)  services
 
 ## Usage
 ```php
+include_once 'sms-misr.class.php';
 /*
 *   your_username => your username
 *   your_password => your password
